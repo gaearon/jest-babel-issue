@@ -7,18 +7,7 @@
     "react-dom": "^15.4.2"
   },
   "devDependencies": {
-    "babel-core": "^6.23.1",
-    "babel-jest": "^19.0.0",
-    "babel-preset-node6": "^11.0.0",
-    "babel-preset-react": "^6.23.0",
-    "jest": "^19.0.2",
     "react-scripts": "0.9.3"
-  },
-  "babel": {
-    "presets": [
-      "node6",
-      "react"
-    ]
   },
   "scripts": {
     "start": "react-scripts start",
